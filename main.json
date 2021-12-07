@@ -52,7 +52,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"mapUtilities.tsx"
+         "source":"..\/Antartica\/mapUtilities.tsx"
         }],
  "tilewidth":32,
  "type":"map",
