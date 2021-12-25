@@ -453,6 +453,9 @@
         "atkabay.json#polarstern": {
             "scaleInDock": 1
         },
+        "blocker.tsx": {
+            "scaleInDock": 1
+        },
         "decoration.tsx": {
             "scaleInDock": 2.1737,
             "scaleInEditor": 1
@@ -772,7 +775,7 @@
             "scaleInEditor": 1
         }
     },
-    "last.externalTilesetPath": "/home/instanton/Projects/rc3World/world-map-starterkit/tiles_png/cy",
+    "last.externalTilesetPath": "/home/instanton/Projects/rc3World/AtkaBayAdventure",
     "last.imagePath": "/home/instanton/Projects/rc3World/AtkaBayAdventure",
     "map.height": 20,
     "map.lastUsedFormat": "json",
