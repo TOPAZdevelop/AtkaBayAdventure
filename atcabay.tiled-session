@@ -502,11 +502,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.8608,
-            "selectedLayer": 4,
+            "scale": 1.714,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2012.8439380911436,
-                "y": 1035.0386930352536
+                "x": 711.4935822637107,
+                "y": 1359.9766627771296
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -546,7 +546,7 @@
             "scaleInDock": 1
         },
         "main.json#tile_polarstern_outdoor03": {
-            "scaleInDock": 1.5116
+            "scaleInDock": 2.8096
         },
         "main.json#worldExit": {
             "scaleInDock": 1
