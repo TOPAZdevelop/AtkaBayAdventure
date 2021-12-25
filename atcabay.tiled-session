@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "main.json",
+    "activeFile": "polarstern_inside.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -490,17 +490,20 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.7691,
-            "selectedLayer": 4,
+            "scale": 0.8892,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1599.9219867377456,
-                "y": 1023.2739565726174
+                "x": 1596.941070625281,
+                "y": 756.8600989653621
             }
         },
         "main.json#01_fire_extinguisher": {
             "scaleInDock": 1
         },
         "main.json#07_tuer_doppel": {
+            "scaleInDock": 1
+        },
+        "main.json#decoration": {
             "scaleInDock": 1
         },
         "main.json#mapUtilities": {
@@ -537,11 +540,143 @@
         },
         "polarstern_inside.json": {
             "scale": 0.528,
-            "selectedLayer": 8,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1599.431818181818,
-                "y": 958.3333333333333
+                "x": 1596.590909090909,
+                "y": 751.8939393939394
             }
+        },
+        "polarstern_inside.json#01_disinfection_dispenser_32x32": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#01_fire_extinguisher": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#03_shelve": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#05_caution_biohazard": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#06_chairs_turqoise": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#06_wash_your_hands_32x32": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#07_tuer_doppel": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#08_waschbecken": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#09_workstations": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#10_paperwork": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#10_tuer_standard_links": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#11_telephone_sideways": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#12_Donuts": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#12_telephone_upright": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#13_wagenvoll": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#16_Pizza_klein": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#16_lab_table": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#17_muelleimer1": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#17_sonogr": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#19_notfallrucksack": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#20_desk2": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#21_seziertisch": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#22_anatomieposter_m": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#23_tisch_weiss_1": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#25_narkosekl": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#28_bed": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#29_kuelschrank1": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#30_safe": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#32_desk_brown_horizontal_1": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#35_pflanze1": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#57_zettelfoo": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#AceSet-Hospital": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#decoration": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#dk_garden": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#dk_lines": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#minideko": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#rc3-2021-mullana-utility": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#terrain": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#tile_icefield01": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#tile_ocean01": {
+            "scaleInDock": 1
         },
         "polarstern_outside.json": {
             "scale": 0.3302,
@@ -682,6 +817,7 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "main.json",
         "worldExit.tsx",
         "mapUtilities.tsx",
         "tile_polarstern_outdoor03.tsx",
@@ -692,8 +828,7 @@
         "57_zettelfoo.tsx",
         "16_lab_table.tsx",
         "13_wagenvoll.tsx",
-        "16_Pizza_klein.tsx",
-        "12_Donuts.tsx"
+        "16_Pizza_klein.tsx"
     ],
     "tileset.lastUsedFilter": "All Files (*)",
     "tileset.lastUsedFormat": "tsx"
