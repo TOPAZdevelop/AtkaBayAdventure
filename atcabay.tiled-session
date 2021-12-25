@@ -502,11 +502,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.5945,
-            "selectedLayer": 8,
+            "scale": 1.3655,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1599.8745688303543,
-                "y": 999.3728441517717
+                "x": 1839.2530208714757,
+                "y": 987.1841816184549
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -561,11 +561,11 @@
             "scaleInEditor": 1
         },
         "polarstern_inside.json": {
-            "scale": 0.528,
+            "scale": 1.8537,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1598.4848484848485,
-                "y": 959.280303030303
+                "x": 2235.798672924421,
+                "y": 733.1283379187571
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -835,7 +835,7 @@
         "tile_polarstern_outdoor03.tsx"
     ],
     "project": "atcabay.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "tile_polarstern_outdoor03.tsx",
         "tile_icefield01.tsx",
