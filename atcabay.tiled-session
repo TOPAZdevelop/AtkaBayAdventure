@@ -493,8 +493,8 @@
             "scale": 0.8892,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1596.941070625281,
-                "y": 756.8600989653621
+                "x": 1599.7525865946918,
+                "y": 1030.701754385965
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -817,6 +817,7 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "polarstern_inside.json",
         "main.json",
         "worldExit.tsx",
         "mapUtilities.tsx",
@@ -827,8 +828,7 @@
         "rc3-2021-mullana-utility.tsx",
         "57_zettelfoo.tsx",
         "16_lab_table.tsx",
-        "13_wagenvoll.tsx",
-        "16_Pizza_klein.tsx"
+        "13_wagenvoll.tsx"
     ],
     "tileset.lastUsedFilter": "All Files (*)",
     "tileset.lastUsedFormat": "tsx"
