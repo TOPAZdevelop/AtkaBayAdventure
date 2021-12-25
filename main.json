@@ -199,7 +199,8 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"rc3-template"
         }, 
         {
          "columns":16,
@@ -212,7 +213,8 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"kb-light"
         }, 
         {
          "columns":16,
@@ -225,7 +227,8 @@
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"rc3-template"
         }, 
         {
          "columns":2,
@@ -238,7 +241,8 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"rc3-template"
         }, 
         {
          "columns":1,
@@ -251,7 +255,8 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"rc3-template"
         }, 
         {
          "columns":10,
@@ -264,7 +269,8 @@
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"maschuxx"
         }, 
         {
          "columns":10,
@@ -277,7 +283,8 @@
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"maschuxx"
         }, 
         {
          "columns":78,
@@ -290,7 +297,8 @@
          "spacing":0,
          "tilecount":3588,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"maschuxx"
         }, 
         {
          "columns":9,
@@ -303,7 +311,8 @@
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"rc3-template"
         }, 
         {
          "columns":2,
@@ -316,7 +325,8 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"rc3-template"
         }, 
         {
          "columns":4,
@@ -329,7 +339,8 @@
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"rc3-template"
         }, 
         {
          "columns":1,
@@ -359,7 +370,8 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"rc3-template"
         }],
  "tilewidth":32,
  "type":"map",
