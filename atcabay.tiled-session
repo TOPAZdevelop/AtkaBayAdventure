@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "polarstern_inside.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -499,11 +499,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.9129,
+            "scale": 0.4911,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1420.1993646620658,
-                "y": 511.55657793843795
+                "x": 1481.3683567501528,
+                "y": 747.3019751578091
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -555,10 +555,10 @@
         },
         "polarstern_inside.json": {
             "scale": 0.528,
-            "selectedLayer": 9,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1392.992424242424,
-                "y": 337.12121212121207
+                "x": 1597.5378787878785,
+                "y": 958.3333333333334
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -767,7 +767,7 @@
         },
         "tile_polarstern_outdoor03.tsx": {
             "scaleInDock": 0.5,
-            "scaleInEditor": 0.5
+            "scaleInEditor": 1
         },
         "worldExit.tsx": {
             "dynamicWrapping": false,
@@ -827,16 +827,11 @@
         "AceSet-Hospital.tsx",
         "tile_icefield01.tsx",
         "tile_polarstern_outdoor03.tsx",
-        "mapUtilities.tsx",
-        "worldExit.tsx"
+        "mapUtilities.tsx"
     ],
     "project": "atcabay.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "worldExit.tsx",
-        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json",
-        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json",
-        "main.json",
         "mapUtilities.tsx",
         "tile_polarstern_outdoor03.tsx",
         "tile_icefield01.tsx",
@@ -844,7 +839,11 @@
         "10_tuer_standard_links.tsx",
         "rc3-2021-mullana-utility.tsx",
         "57_zettelfoo.tsx",
-        "16_lab_table.tsx"
+        "16_lab_table.tsx",
+        "13_wagenvoll.tsx",
+        "16_Pizza_klein.tsx",
+        "12_Donuts.tsx",
+        "01_fire_extinguisher.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
