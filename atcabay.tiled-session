@@ -491,10 +491,10 @@
         },
         "main.json": {
             "scale": 0.8892,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1599.7525865946918,
-                "y": 1030.701754385965
+                "x": 1586.2573099415204,
+                "y": 1030.1394511920826
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -540,10 +540,10 @@
         },
         "polarstern_inside.json": {
             "scale": 0.528,
-            "selectedLayer": 2,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1596.590909090909,
-                "y": 751.8939393939394
+                "x": 1429.9242424242423,
+                "y": 342.80303030303037
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -817,7 +817,6 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "polarstern_inside.json",
         "main.json",
         "worldExit.tsx",
         "mapUtilities.tsx",
@@ -828,7 +827,8 @@
         "rc3-2021-mullana-utility.tsx",
         "57_zettelfoo.tsx",
         "16_lab_table.tsx",
-        "13_wagenvoll.tsx"
+        "13_wagenvoll.tsx",
+        "16_Pizza_klein.tsx"
     ],
     "tileset.lastUsedFilter": "All Files (*)",
     "tileset.lastUsedFormat": "tsx"
