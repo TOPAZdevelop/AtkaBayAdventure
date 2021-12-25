@@ -68,7 +68,10 @@
             "scaleInEditor": 1
         },
         "/home/instanton/Projects/rc3World/world-map-starterkit/big.json": {
+            "dynamicWrapping": true,
             "scale": 0.5058,
+            "scaleInDock": 1,
+            "scaleInEditor": 1,
             "selectedLayer": 10,
             "viewCenter": {
                 "x": 912.4159746935547,
@@ -187,7 +190,10 @@
             "scaleInDock": 1
         },
         "/home/instanton/Projects/rc3World/world-map-starterkit/small.json": {
+            "dynamicWrapping": true,
             "scale": 1.0677,
+            "scaleInDock": 1,
+            "scaleInEditor": 1,
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 372.2955886484968,
@@ -490,11 +496,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.8892,
-            "selectedLayer": 3,
+            "scale": 0.9129,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1586.2573099415204,
-                "y": 1030.1394511920826
+                "x": 1420.1993646620658,
+                "y": 511.55657793843795
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -503,11 +509,17 @@
         "main.json#07_tuer_doppel": {
             "scaleInDock": 1
         },
+        "main.json#blocker": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "main.json#decoration": {
             "scaleInDock": 1
         },
         "main.json#mapUtilities": {
-            "scaleInDock": 1
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#rc3-mullana-floor-wall": {
             "scaleInDock": 1
@@ -542,8 +554,8 @@
             "scale": 0.528,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 1429.9242424242423,
-                "y": 342.80303030303037
+                "x": 1392.992424242424,
+                "y": 337.12121212121207
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -755,6 +767,7 @@
             "scaleInEditor": 0.5
         },
         "worldExit.tsx": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         }
@@ -815,10 +828,12 @@
         "worldExit.tsx"
     ],
     "project": "atcabay.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
-        "main.json",
         "worldExit.tsx",
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json",
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json",
+        "main.json",
         "mapUtilities.tsx",
         "tile_polarstern_outdoor03.tsx",
         "tile_icefield01.tsx",
@@ -826,10 +841,9 @@
         "10_tuer_standard_links.tsx",
         "rc3-2021-mullana-utility.tsx",
         "57_zettelfoo.tsx",
-        "16_lab_table.tsx",
-        "13_wagenvoll.tsx",
-        "16_Pizza_klein.tsx"
+        "16_lab_table.tsx"
     ],
+    "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
     "tileset.lastUsedFormat": "tsx"
 }
