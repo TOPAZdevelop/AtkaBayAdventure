@@ -1,0 +1,655 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "polarstern_outside.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/instanton/Projects/rc3World/Antartica/icefield.json": {
+            "scale": 1.1605,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1350.7109004739334,
+                "y": 507.10900473933646
+            }
+        },
+        "/home/instanton/Projects/rc3World/Antartica/icefield.json#minideko": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/Antartica/icefield.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/instanton/Projects/rc3World/Antartica/main.json": {
+            "scale": 0.6665134803921567,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 785.4304757527007,
+                "y": 314.32222477591364
+            }
+        },
+        "/home/instanton/Projects/rc3World/Antartica/mapUtilities.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/instanton/Projects/rc3World/Antartica/tile_icefield01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/instanton/Projects/rc3World/Antartica/tile_polarstern_outdoor01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/instanton/Projects/rc3World/MyAssembly01/assembly01.json": {
+            "scale": 0.9085,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1541.552008805724,
+                "y": 3200.3302146395163
+            }
+        },
+        "/home/instanton/Projects/rc3World/MyAssembly01/assembly01.json#minideko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/instanton/Projects/rc3World/MyAssembly01/map01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/instanton/Projects/rc3World/MyAssembly01/rc3-mullana-floor-wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json": {
+            "scale": 0.5058,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 912.4159746935547,
+                "y": 801.7002767892446
+            }
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#01_fire_extinguisher": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#05_mate_bottles_full": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#07_right_mate_bottles_flora": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#11_coffee2": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#13_stone_tile_hatch": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#13_winkekatze": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#AceSet-Hospital": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#dk_lines": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#fairydust": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#minideko": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#misc": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#rc3": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#testing_set": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/big.json#text": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json": {
+            "scale": 0.595,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 573.9495798319329,
+                "y": 481.51260504201684
+            }
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#08_right_mate_bottles_flora_full": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#dk_transports": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#minideko": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#official_rockets": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#rc3_style_set": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#text": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/medium.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json": {
+            "scale": 1.0677,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 372.2955886484968,
+                "y": 318.9098061253161
+            }
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#10_coffee": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#23_tisch_weiss_1": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#57_zettelfoo": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#65_tischdokumente_2": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#broken_glass_1": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#misc": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#misc_set": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/Projects/rc3World/world-map-starterkit/small.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "/home/instanton/main.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 844.5,
+                "y": 611.5
+            }
+        },
+        "01_disinfection_dispenser_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "01_door.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "01_fire_extinguisher.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "02_palette2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "03_shelve.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "05_caution_biohazard.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "05_tuer_bullauge_rechts_gruen.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "06_chairs_turqoise.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "06_wash_your_hands_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "07_tuer_doppel.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "08_waschbecken.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "09_workstations.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "10_paperwork.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "10_tuer_standard_links.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "11_telephone_sideways.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "12_Donuts.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "12_telephone_upright.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "13_wagenvoll.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "15_Pizza.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "15_blood1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "16_Pizza_klein.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "16_lab_table.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "17_muelleimer1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "17_sonogr.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "19_notfallrucksack.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "20_desk2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "20_technicalrucksack.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "21_seziertisch.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "22_anatomieposter_m.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "23_tisch_weiss_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "24_MRT.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "25_narkosekl.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "26_pinboard_XL_2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "28_bed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "29_kuelschrank1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "30_evita_display3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "30_safe.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "32_desk_brown_horizontal_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "35_kuehlfaecher.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "35_pflanze1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "49_Wasserrose.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "57_zettelfoo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "62_corpse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "AceSet-Hospital.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "atkabay.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1131.6666666666665,
+                "y": 281.66666666666663
+            }
+        },
+        "atkabay.json#Terrain": {
+            "scaleInDock": 1
+        },
+        "atkabay.json#decoration": {
+            "scaleInDock": 1
+        },
+        "atkabay.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "atkabay.json#polarstern": {
+            "scaleInDock": 1
+        },
+        "decoration.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dk_garden.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dk_lines.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dk_overlays.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dk_space_station.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dk_transports.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fairydust.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "icefield.json": {
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1595,
+                "y": 1595
+            }
+        },
+        "icefield.json#minideko": {
+            "scaleInDock": 1
+        },
+        "icefield.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "main.json": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1695.3333333333335,
+                "y": 619.3333333333333
+            }
+        },
+        "mapUtilities.tsx": {
+            "scaleInDock": 1
+        },
+        "minideko.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "polarstern_outside.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1591,
+                "y": 1018.5
+            }
+        },
+        "rc3-2021-mullana-utility.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "rc3-mullana-colors-128.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "rc3-mullana-floor-wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "rc3-mullana-functionary.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "rc3-mullana-modules.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "rc3-mullana-objects.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "rc3-mullana-overlay.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "seidenstrasse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "text.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tile_icefield01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tile_neumayer_outdoor01.tsx": {
+            "scaleInDock": 0.6178,
+            "scaleInEditor": 1
+        },
+        "tile_ocean01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tile_polarstern_indoor01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tile_polarstern_outdoor01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tile_polarstern_outdoor02.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.5
+        },
+        "tile_polarstern_outdoor03.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.5
+        }
+    },
+    "last.externalTilesetPath": "/home/instanton/Projects/rc3World/world-map-starterkit/tiles_png/cy",
+    "last.imagePath": "/home/instanton/Projects/rc3World/AtkaBayAdventure",
+    "map.height": 20,
+    "map.lastUsedFormat": "json",
+    "map.width": 50,
+    "openFiles": [
+        "polarstern_outside.json",
+        "dk_garden.tsx",
+        "rc3-mullana-floor-wall.tsx",
+        "tile_ocean01.tsx",
+        "terrain.tsx",
+        "decoration.tsx",
+        "rc3-mullana-overlay.tsx",
+        "rc3-mullana-objects.tsx",
+        "dk_lines.tsx",
+        "minideko.tsx",
+        "21_seziertisch.tsx",
+        "29_kuelschrank1.tsx",
+        "08_waschbecken.tsx",
+        "17_muelleimer1.tsx",
+        "09_workstations.tsx",
+        "23_tisch_weiss_1.tsx",
+        "10_paperwork.tsx",
+        "20_desk2.tsx",
+        "11_telephone_sideways.tsx",
+        "03_shelve.tsx",
+        "35_pflanze1.tsx",
+        "07_tuer_doppel.tsx",
+        "32_desk_brown_horizontal_1.tsx",
+        "12_telephone_upright.tsx",
+        "30_safe.tsx",
+        "06_chairs_turqoise.tsx",
+        "28_bed.tsx",
+        "25_narkosekl.tsx",
+        "22_anatomieposter_m.tsx",
+        "17_sonogr.tsx",
+        "19_notfallrucksack.tsx",
+        "01_disinfection_dispenser_32x32.tsx",
+        "06_wash_your_hands_32x32.tsx",
+        "05_caution_biohazard.tsx",
+        "01_fire_extinguisher.tsx",
+        "12_Donuts.tsx",
+        "16_Pizza_klein.tsx",
+        "13_wagenvoll.tsx",
+        "16_lab_table.tsx",
+        "57_zettelfoo.tsx",
+        "rc3-2021-mullana-utility.tsx",
+        "10_tuer_standard_links.tsx",
+        "tile_polarstern_outdoor02.tsx",
+        "AceSet-Hospital.tsx",
+        "tile_icefield01.tsx",
+        "tile_polarstern_outdoor03.tsx"
+    ],
+    "project": "atcabay.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "tile_polarstern_outdoor03.tsx",
+        "tile_icefield01.tsx",
+        "AceSet-Hospital.tsx",
+        "tile_polarstern_outdoor02.tsx",
+        "10_tuer_standard_links.tsx",
+        "rc3-2021-mullana-utility.tsx",
+        "57_zettelfoo.tsx",
+        "16_lab_table.tsx",
+        "13_wagenvoll.tsx",
+        "16_Pizza_klein.tsx",
+        "12_Donuts.tsx",
+        "01_fire_extinguisher.tsx"
+    ],
+    "tileset.lastUsedFilter": "All Files (*)",
+    "tileset.lastUsedFormat": "tsx"
+}
