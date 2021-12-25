@@ -332,14 +332,6 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":4847,
-         "source":"AceSet-Hospital.tsx"
-        }, 
-        {
-         "firstgid":5103,
-         "source":"mapUtilities.tsx"
-        }, 
-        {
          "columns":1,
          "firstgid":5112,
          "image":"blocker.png",
