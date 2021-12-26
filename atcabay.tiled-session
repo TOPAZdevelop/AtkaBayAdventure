@@ -508,8 +508,8 @@
             "scale": 0.4992,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1447.315705128205,
-                "y": 1045.673076923077
+                "x": 1445.3124999999998,
+                "y": 1476.3621794871794
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -564,11 +564,11 @@
             "scaleInEditor": 1
         },
         "polarstern_inside.json": {
-            "scale": 1.6866,
+            "scale": 0.4697,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1381.181074350765,
-                "y": 433.41634056682074
+                "x": 1118.799233553332,
+                "y": 866.5105386416863
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {

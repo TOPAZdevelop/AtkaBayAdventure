@@ -381,10 +381,6 @@
         {
          "firstgid":5103,
          "source":"minideko.tsx"
-        }, 
-        {
-         "firstgid":5194,
-         "source":"rc3-mullana-overlay.tsx"
         }],
  "tilewidth":32,
  "type":"map",
