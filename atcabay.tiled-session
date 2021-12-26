@@ -502,11 +502,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.6906,
-            "selectedLayer": 5,
+            "scale": 2.5881,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1380.6834636547928,
-                "y": 984.6510280915146
+                "x": 1148.525945674433,
+                "y": 555.233569027472
             }
         },
         "main.json#01_fire_extinguisher": {
