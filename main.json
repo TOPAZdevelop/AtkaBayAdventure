@@ -377,10 +377,6 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":5103,
-         "source":"minideko.tsx"
         }],
  "tilewidth":32,
  "type":"map",
