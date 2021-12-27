@@ -502,11 +502,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.4992,
-            "selectedLayer": 3,
+            "scale": 1.6002,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 1587.5400641025642,
-                "y": 1290.0641025641025
+                "x": 1599.8000249968754,
+                "y": 998.9376327959005
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -529,6 +529,9 @@
             "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "main.json#minideko": {
+            "scaleInDock": 1
         },
         "main.json#rc3-mullana-floor-wall": {
             "scaleInDock": 1,
