@@ -57,7 +57,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.6
+                 "value":2
                 }, 
                 {
                  "name":"playAudio",
@@ -358,7 +358,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Mike Koenig CC3 for beach.mp3^"
+         "value":"Mike Koenig CC3 for beach.mp3 and National Park Service (whales)"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
