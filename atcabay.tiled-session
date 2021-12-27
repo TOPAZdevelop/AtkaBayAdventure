@@ -450,6 +450,9 @@
         "atkabay.json#mapUtilities": {
             "scaleInDock": 1
         },
+        "atkabay.json#polar5": {
+            "scaleInDock": 1
+        },
         "atkabay.json#polarstern": {
             "scaleInDock": 1
         },
@@ -505,8 +508,8 @@
             "scale": 2.1945,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 552.0619731146047,
-                "y": 937.34335839599
+                "x": 1583.9598997493733,
+                "y": 988.6078833447255
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -572,8 +575,8 @@
             "scale": 0.8249,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 2000.848587707601,
-                "y": 636.440780700691
+                "x": 1598.981694750879,
+                "y": 959.5102436658989
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
