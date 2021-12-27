@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "atkabay.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -437,8 +437,8 @@
             "scale": 1.9114,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1076.959296850476,
-                "y": 331.17086951972374
+                "x": 943.8108192947577,
+                "y": 1087.4228314324578
             }
         },
         "atkabay.json#Terrain": {
@@ -503,7 +503,7 @@
         },
         "main.json": {
             "scale": 0.4992,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 1587.5400641025642,
                 "y": 1290.0641025641025
@@ -565,8 +565,8 @@
             "scale": 0.4697,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1582.9252714498616,
-                "y": 938.897168405365
+                "x": 1598.8929103683201,
+                "y": 959.122844368746
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -840,18 +840,18 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "main.json",
-        "polarstern_inside.json",
-        "dk_garden.tsx",
-        "rc3-mullana-floor-wall.tsx",
-        "tile_ocean01.tsx",
-        "terrain.tsx",
-        "decoration.tsx",
-        "rc3-mullana-objects.tsx",
-        "dk_lines.tsx",
-        "minideko.tsx",
-        "21_seziertisch.tsx",
-        "29_kuelschrank1.tsx"
+        "atkabay.json",
+        "tile_polarstern_outdoor03.tsx",
+        "tile_icefield01.tsx",
+        "10_tuer_standard_links.tsx",
+        "rc3-2021-mullana-utility.tsx",
+        "57_zettelfoo.tsx",
+        "16_lab_table.tsx",
+        "13_wagenvoll.tsx",
+        "16_Pizza_klein.tsx",
+        "12_Donuts.tsx",
+        "01_fire_extinguisher.tsx",
+        "05_caution_biohazard.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",

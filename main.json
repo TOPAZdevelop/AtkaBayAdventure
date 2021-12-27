@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":"world:\/\/lobby\/islanooblar.json#start_atka"
                 }],
          "type":"tilelayer",
          "visible":true,
