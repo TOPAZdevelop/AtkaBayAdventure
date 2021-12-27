@@ -437,8 +437,8 @@
             "scale": 1.9114,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1077.482473579575,
-                "y": 332.21722297792195
+                "x": 1076.959296850476,
+                "y": 331.17086951972374
             }
         },
         "atkabay.json#Terrain": {
@@ -505,8 +505,8 @@
             "scale": 0.4992,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1589.5432692307693,
-                "y": 1292.0673076923076
+                "x": 1587.5400641025642,
+                "y": 1290.0641025641025
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -798,7 +798,6 @@
         "tile_ocean01.tsx",
         "terrain.tsx",
         "decoration.tsx",
-        "rc3-mullana-overlay.tsx",
         "rc3-mullana-objects.tsx",
         "dk_lines.tsx",
         "minideko.tsx",
@@ -841,7 +840,6 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "rc3-mullana-overlay.tsx",
         "main.json",
         "polarstern_inside.json",
         "dk_garden.tsx",
@@ -852,7 +850,8 @@
         "rc3-mullana-objects.tsx",
         "dk_lines.tsx",
         "minideko.tsx",
-        "21_seziertisch.tsx"
+        "21_seziertisch.tsx",
+        "29_kuelschrank1.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",

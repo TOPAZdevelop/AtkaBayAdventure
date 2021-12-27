@@ -188,7 +188,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"CC-BY-SA 3.0 kb-light"
                 }],
          "spacing":0,
          "tilecount":16,
@@ -1227,7 +1227,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"CC-BY-SA 3.0 kb-light"
                 }],
          "spacing":0,
          "tilecount":24,
