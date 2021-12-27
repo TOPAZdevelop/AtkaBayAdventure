@@ -502,11 +502,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.6002,
-            "selectedLayer": 13,
+            "scale": 0.3243,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 1615.1106111736035,
-                "y": 495.56305461817277
+                "x": 1561.8254702436016,
+                "y": 792.4761023743447
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -843,6 +843,7 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "main.json",
         "atkabay.json",
         "tile_polarstern_outdoor03.tsx",
         "tile_icefield01.tsx",
@@ -853,8 +854,7 @@
         "13_wagenvoll.tsx",
         "16_Pizza_klein.tsx",
         "12_Donuts.tsx",
-        "01_fire_extinguisher.tsx",
-        "05_caution_biohazard.tsx"
+        "01_fire_extinguisher.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
