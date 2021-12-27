@@ -224,7 +224,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"none"
+                 "value":"rc3"
                 }],
          "spacing":0,
          "tilecount":256,
@@ -239,6 +239,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"terrain",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"kb-light"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -252,6 +258,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -265,6 +277,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"07_tuer_doppel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -278,6 +296,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"01_fire_extinguisher",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -291,6 +315,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"tile_ocean01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -304,6 +334,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"tile_icefield01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -317,6 +353,12 @@
          "imagewidth":2500,
          "margin":0,
          "name":"tile_polarstern_outdoor03",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"maschuxx"
+                }],
          "spacing":0,
          "tilecount":3588,
          "tileheight":32,
@@ -330,6 +372,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -343,6 +391,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"decoration",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -356,6 +410,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -379,6 +439,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,

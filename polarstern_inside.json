@@ -160,6 +160,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -169,6 +175,12 @@
          "columns":16,
          "firstgid":257,
          "image":"dk_garden.png",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -182,6 +194,12 @@
          "columns":16,
          "firstgid":513,
          "image":"terrain\/terrain.png",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"kblight"
+                }],
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -199,6 +217,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"decoration",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -212,6 +236,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -225,6 +255,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -238,6 +274,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -251,6 +293,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"21_seziertisch",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -264,6 +312,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"29_kuelschrank1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
@@ -277,6 +331,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"08_waschbecken",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
@@ -290,6 +350,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"17_muelleimer1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -303,6 +369,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"23_tisch_weiss_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -316,6 +388,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"09_workstations",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -329,6 +407,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"20_desk2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -342,6 +426,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"10_paperwork",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -355,6 +445,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"11_telephone_sideways",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -368,6 +464,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"03_shelve",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -381,6 +483,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"35_pflanze1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
@@ -394,6 +502,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"07_tuer_doppel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -407,6 +521,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"32_desk_brown_horizontal_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -420,6 +540,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"30_safe",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -433,6 +559,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"06_chairs_turqoise",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -446,6 +578,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"28_bed",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -459,6 +597,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"25_narkosekl",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -472,6 +616,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"22_anatomieposter_m",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -485,6 +635,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"17_sonogr",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -498,6 +654,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"19_notfallrucksack",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -511,6 +673,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"01_disinfection_dispenser_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -524,6 +692,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"06_wash_your_hands_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -537,6 +711,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"05_caution_biohazard",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -550,6 +730,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"01_fire_extinguisher",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -563,6 +749,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"12_Donuts",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -576,6 +768,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"16_Pizza_klein",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -589,6 +787,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"13_wagenvoll",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -602,6 +806,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"16_lab_table",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -615,6 +825,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"57_zettelfoo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -628,6 +844,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"tile_ocean01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -641,6 +863,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"rc3-2021-mullana-utility",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1200,
          "tileheight":32,
@@ -654,6 +882,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"10_tuer_standard_links",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -667,6 +901,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"12_telephone_upright",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -680,6 +920,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -693,6 +939,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"dk_lines",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -706,6 +958,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"tile_icefield01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"maschuxx"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -719,6 +977,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
