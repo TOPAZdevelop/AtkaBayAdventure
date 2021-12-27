@@ -505,11 +505,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 2.1945,
-            "selectedLayer": 3,
+            "scale": 0.8286,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1583.9598997493733,
-                "y": 988.6078833447255
+                "x": 1295.5587738353852,
+                "y": 523.7750422399228
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -851,7 +851,7 @@
         "atkabay.json"
     ],
     "project": "atcabay.tiled-project",
-    "property.type": "string",
+    "property.type": "float",
     "recentFiles": [
         "atkabay.json",
         "tile_polarstern_outdoor03.tsx",
