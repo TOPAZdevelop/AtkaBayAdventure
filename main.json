@@ -223,7 +223,8 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+	 "tilesetCopyright":"rc3"
         }, 
         {
          "columns":16,
