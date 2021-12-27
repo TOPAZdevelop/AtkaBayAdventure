@@ -437,8 +437,8 @@
             "scale": 1.9114,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 943.8108192947577,
-                "y": 1087.4228314324578
+                "x": 943.5492309302082,
+                "y": 1087.1612430679083
             }
         },
         "atkabay.json#Terrain": {
@@ -505,8 +505,8 @@
             "scale": 1.6002,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1599.8000249968754,
-                "y": 998.9376327959005
+                "x": 1615.1106111736035,
+                "y": 495.56305461817277
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -568,8 +568,8 @@
             "scale": 0.4697,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1598.8929103683201,
-                "y": 959.122844368746
+                "x": 1597.8284011070896,
+                "y": 958.0583351075154
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
