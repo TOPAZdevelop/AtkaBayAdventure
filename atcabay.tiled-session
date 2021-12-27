@@ -502,11 +502,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 2.4441,
-            "selectedLayer": 7,
+            "scale": 2.1945,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 1323.3910232805529,
-                "y": 1078.924757579477
+                "x": 552.0619731146047,
+                "y": 937.34335839599
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -531,6 +531,9 @@
             "scaleInEditor": 1
         },
         "main.json#minideko": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-2021-mullana-utility": {
             "scaleInDock": 1
         },
         "main.json#rc3-mullana-floor-wall": {
@@ -566,11 +569,11 @@
             "scaleInEditor": 1
         },
         "polarstern_inside.json": {
-            "scale": 2.0681,
+            "scale": 2.3463,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1394.7584739616073,
-                "y": 939.9932305014265
+                "x": 2021.2675275966417,
+                "y": 762.0508886331672
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -842,9 +845,10 @@
         "atkabay.json"
     ],
     "project": "atcabay.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "main.json",
+        "polarstern_inside.json",
         "atkabay.json",
         "tile_polarstern_outdoor03.tsx",
         "tile_icefield01.tsx",
@@ -854,8 +858,7 @@
         "16_lab_table.tsx",
         "13_wagenvoll.tsx",
         "16_Pizza_klein.tsx",
-        "12_Donuts.tsx",
-        "01_fire_extinguisher.tsx"
+        "12_Donuts.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
