@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"polarstern_inside.json#enter_from_outside"
                 }],
          "type":"tilelayer",
          "visible":true,
