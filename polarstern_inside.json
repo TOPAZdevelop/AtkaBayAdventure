@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/garticphone.com"
+                 "value":"https:\/\/skribbl.io"
                 }],
          "type":"tilelayer",
          "visible":true,

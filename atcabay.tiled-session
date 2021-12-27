@@ -570,10 +570,10 @@
         },
         "polarstern_inside.json": {
             "scale": 0.8249,
-            "selectedLayer": 0,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1069.8266456540186,
-                "y": 637.6530488544065
+                "x": 2000.848587707601,
+                "y": 636.440780700691
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -850,7 +850,6 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "polarstern_inside.json",
         "atkabay.json",
         "tile_polarstern_outdoor03.tsx",
         "tile_icefield01.tsx",
@@ -861,7 +860,8 @@
         "13_wagenvoll.tsx",
         "16_Pizza_klein.tsx",
         "12_Donuts.tsx",
-        "01_fire_extinguisher.tsx"
+        "01_fire_extinguisher.tsx",
+        "05_caution_biohazard.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
