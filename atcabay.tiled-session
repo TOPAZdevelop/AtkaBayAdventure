@@ -512,7 +512,7 @@
         },
         "main.json": {
             "scale": 2.5496,
-            "selectedLayer": 3,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 1075.2667085032947,
                 "y": 631.8638217759649
@@ -580,7 +580,7 @@
         },
         "polarstern_inside.json": {
             "scale": 1.3716,
-            "selectedLayer": 16,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 574.8760571595217,
                 "y": 458.58850976961213
@@ -721,7 +721,7 @@
             "scaleInDock": 1
         },
         "polarstern_inside.json#tile_polarstern_outdoor03": {
-            "scaleInDock": 0.2715
+            "scaleInDock": 1.6005
         },
         "polarstern_inside.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
