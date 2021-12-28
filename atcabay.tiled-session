@@ -498,11 +498,14 @@
         },
         "graffiti.json": {
             "scale": 2.2206249999999996,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 144.3287362792007,
                 "y": 160.76555023923444
             }
+        },
+        "graffiti.json#07_tuer_doppel": {
+            "scaleInDock": 1
         },
         "graffiti.json#mapUtilities": {
             "scaleInDock": 1
