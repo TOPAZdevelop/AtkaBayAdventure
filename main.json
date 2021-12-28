@@ -667,25 +667,6 @@
          "tilecount":1200,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":15,
-         "firstgid":7594,
-         "image":"cija_32x32_expansion for Pipoya_CC0.png",
-         "imageheight":4056,
-         "imagewidth":257,
-         "margin":0,
-         "name":"cija_32x32_expansion for Pipoya_CC0",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"bytewerk"
-                }],
-         "spacing":0,
-         "tilecount":1995,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
