@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "main.json",
+    "activeFile": "polarstern_inside.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -508,8 +508,8 @@
             "scale": 0.4989,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1297.855281619563,
-                "y": 875.9270394868711
+                "x": 1599.5189416716776,
+                "y": 1058.3283223090798
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -578,8 +578,8 @@
             "scale": 1.0336,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 595.4914860681114,
-                "y": 482.77863777089783
+                "x": 1583.7848297213623,
+                "y": 959.7523219814241
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -718,6 +718,9 @@
         "polarstern_inside.json#tile_ocean01": {
             "scaleInDock": 1
         },
+        "polarstern_inside.json#tile_polarstern_outdoor03": {
+            "scaleInDock": 1
+        },
         "polarstern_inside.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
@@ -795,7 +798,7 @@
         },
         "tile_polarstern_outdoor03.tsx": {
             "dynamicWrapping": false,
-            "scaleInDock": 0.5,
+            "scaleInDock": 1.0107,
             "scaleInEditor": 1
         },
         "worldExit.tsx": {
@@ -859,7 +862,7 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "polarstern_inside.json",
+        "main.json",
         "atkabay.json",
         "tile_polarstern_outdoor03.tsx",
         "tile_icefield01.tsx",
