@@ -437,8 +437,8 @@
             "scale": 0.6271,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 957.5825227236486,
-                "y": 1084.3565619518417
+                "x": 949.6093127092968,
+                "y": 1076.3833519374903
             }
         },
         "atkabay.json#Terrain": {
@@ -498,17 +498,18 @@
         },
         "graffiti.json": {
             "scale": 2.2206249999999996,
-            "selectedLayer": 2,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 144.3287362792007,
-                "y": 160.76555023923444
+                "y": 160.31522656909658
             }
         },
         "graffiti.json#07_tuer_doppel": {
             "scaleInDock": 1
         },
         "graffiti.json#mapUtilities": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "graffiti.json#rc3-mullana-floor-wall": {
             "scaleInDock": 1
@@ -532,7 +533,7 @@
         },
         "main.json": {
             "scale": 0.6063,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 1765.627577107043,
                 "y": 1004.453240969817
@@ -602,8 +603,8 @@
             "scale": 1.4271,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 827.202018078621,
-                "y": 811.4357788522178
+                "x": 824.3991311050381,
+                "y": 808.632891878635
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
