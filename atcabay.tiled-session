@@ -437,7 +437,7 @@
             "scale": 0.6271,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 942.4334236963803,
+                "x": 959.9744857279541,
                 "y": 1085.9512039547121
             }
         },
@@ -514,8 +514,8 @@
             "scale": 2.5496,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 1075.2667085032947,
-                "y": 631.8638217759649
+                "x": 1599.8588013806088,
+                "y": 979.3693128333857
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -580,10 +580,10 @@
         },
         "polarstern_inside.json": {
             "scale": 1.3716,
-            "selectedLayer": 3,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 574.8760571595217,
-                "y": 458.58850976961213
+                "x": 1599.591717701954,
+                "y": 959.4634004082823
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -862,8 +862,8 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "atkabay.json",
         "main.json",
+        "atkabay.json",
         "tile_icefield01.tsx",
         "10_tuer_standard_links.tsx",
         "rc3-2021-mullana-utility.tsx",
