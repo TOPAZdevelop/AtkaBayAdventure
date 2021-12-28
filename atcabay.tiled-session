@@ -511,11 +511,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 2.5496,
-            "selectedLayer": 1,
+            "scale": 0.3672,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 1199.599937245058,
-                "y": 590.2886727329777
+                "x": 1452.8867102396514,
+                "y": 593.6819172113289
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -579,11 +579,11 @@
             "scaleInEditor": 1
         },
         "polarstern_inside.json": {
-            "scale": 0.7752,
-            "selectedLayer": 3,
+            "scale": 0.4848,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 739.8090815273478,
-                "y": 910.7327141382871
+                "x": 1919.3481848184817,
+                "y": 633.2508250825082
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -860,7 +860,7 @@
         "atkabay.json"
     ],
     "project": "atcabay.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "main.json",
         "atkabay.json",
