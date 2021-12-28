@@ -575,11 +575,11 @@
             "scaleInEditor": 1
         },
         "polarstern_inside.json": {
-            "scale": 1.3296,
-            "selectedLayer": 10,
+            "scale": 0.4271,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1599.7292418772565,
-                "y": 959.6871239470519
+                "x": 558.4172324982441,
+                "y": 501.05361741980795
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -707,7 +707,7 @@
             "scaleInDock": 1
         },
         "polarstern_inside.json#rc3-mullana-overlay": {
-            "scaleInDock": 1
+            "scaleInDock": 0.4219
         },
         "polarstern_inside.json#terrain": {
             "scaleInDock": 1
@@ -730,7 +730,7 @@
             }
         },
         "rc3-2021-mullana-utility.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 1.602,
             "scaleInEditor": 1
         },
         "rc3-mullana-colors-128.tsx": {

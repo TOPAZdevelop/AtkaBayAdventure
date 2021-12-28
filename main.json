@@ -669,10 +669,6 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":6394,
-         "source":"rc3-2021-mullana-utility.tsx"
-        }, 
-        {
          "columns":15,
          "firstgid":7594,
          "image":"cija_32x32_expansion for Pipoya_CC0.png",
