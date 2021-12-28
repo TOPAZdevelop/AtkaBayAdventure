@@ -22,7 +22,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"graffiti.json"
                 }],
