@@ -1122,25 +1122,6 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":78,
-         "firstgid":6499,
-         "image":"tile_polarstern_outdoor03.png",
-         "imageheight":1500,
-         "imagewidth":2500,
-         "margin":0,
-         "name":"tile_polarstern_outdoor03",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"maschuxx"
-                }],
-         "spacing":0,
-         "tilecount":3588,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
