@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "atkabay.json",
+    "activeFile": "polarstern_inside.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -437,8 +437,8 @@
             "scale": 0.6271,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 755.0629883591134,
-                "y": 940.8387816935099
+                "x": 942.4334236963803,
+                "y": 1085.9512039547121
             }
         },
         "atkabay.json#Terrain": {
@@ -514,8 +514,8 @@
             "scale": 2.5496,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1075.2667085032947,
-                "y": 631.8638217759649
+                "x": 1599.8588013806088,
+                "y": 979.3693128333857
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -580,10 +580,10 @@
         },
         "polarstern_inside.json": {
             "scale": 1.3716,
-            "selectedLayer": 14,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1021.0702828813064,
-                "y": 463.69203849518806
+                "x": 1599.591717701954,
+                "y": 959.4634004082823
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -702,7 +702,8 @@
             "scaleInDock": 1
         },
         "polarstern_inside.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "polarstern_inside.json#rc3-mullana-objects": {
             "scaleInDock": 1
@@ -720,7 +721,7 @@
             "scaleInDock": 1
         },
         "polarstern_inside.json#tile_polarstern_outdoor03": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5759
         },
         "polarstern_inside.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
@@ -817,7 +818,6 @@
         "main.json",
         "polarstern_inside.json",
         "dk_garden.tsx",
-        "rc3-mullana-floor-wall.tsx",
         "tile_ocean01.tsx",
         "terrain.tsx",
         "decoration.tsx",
@@ -862,18 +862,18 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "atkabay.json",
         "main.json",
-        "polarstern_inside.json",
-        "dk_garden.tsx",
-        "rc3-mullana-floor-wall.tsx",
-        "tile_ocean01.tsx",
-        "terrain.tsx",
-        "decoration.tsx",
-        "rc3-mullana-objects.tsx",
-        "dk_lines.tsx",
-        "minideko.tsx",
-        "21_seziertisch.tsx"
+        "atkabay.json",
+        "tile_icefield01.tsx",
+        "10_tuer_standard_links.tsx",
+        "rc3-2021-mullana-utility.tsx",
+        "57_zettelfoo.tsx",
+        "16_lab_table.tsx",
+        "13_wagenvoll.tsx",
+        "16_Pizza_klein.tsx",
+        "12_Donuts.tsx",
+        "01_fire_extinguisher.tsx",
+        "05_caution_biohazard.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
