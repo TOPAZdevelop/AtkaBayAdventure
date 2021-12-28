@@ -131,10 +131,6 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":3845,
-         "source":"10_tuer_standard_links.tsx"
-        }, 
-        {
          "columns":9,
          "firstgid":3847,
          "image":"mapUtilities.png",
