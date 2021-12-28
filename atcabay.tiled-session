@@ -434,11 +434,11 @@
             "scaleInEditor": 1
         },
         "atkabay.json": {
-            "scale": 1.9114,
+            "scale": 0.6271,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 943.5492309302082,
-                "y": 1087.6844197970072
+                "x": 755.0629883591134,
+                "y": 940.8387816935099
             }
         },
         "atkabay.json#Terrain": {
@@ -512,7 +512,7 @@
         },
         "main.json": {
             "scale": 2.5496,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 1075.2667085032947,
                 "y": 631.8638217759649
@@ -563,7 +563,8 @@
             "scaleInDock": 1
         },
         "main.json#tile_polarstern_outdoor03": {
-            "scaleInDock": 1.5578
+            "scaleInDock": 1.5578,
+            "scaleInEditor": 1
         },
         "main.json#worldExit": {
             "scaleInDock": 1
@@ -581,8 +582,8 @@
             "scale": 1.3716,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1023.257509477982,
-                "y": 465.87926509186354
+                "x": 1021.7993584135318,
+                "y": 464.42111402741324
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -716,6 +717,9 @@
             "scaleInDock": 1
         },
         "polarstern_inside.json#tile_ocean01": {
+            "scaleInDock": 1
+        },
+        "polarstern_inside.json#tile_polarstern_outdoor03": {
             "scaleInDock": 1
         },
         "polarstern_inside.json#tilesets_deviant_milkian_1": {
@@ -853,12 +857,12 @@
         "rc3-2021-mullana-utility.tsx",
         "10_tuer_standard_links.tsx",
         "tile_icefield01.tsx",
-        "tile_polarstern_outdoor03.tsx",
         "atkabay.json"
     ],
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "atkabay.json",
         "main.json",
         "polarstern_inside.json",
         "dk_garden.tsx",
@@ -869,8 +873,7 @@
         "rc3-mullana-objects.tsx",
         "dk_lines.tsx",
         "minideko.tsx",
-        "21_seziertisch.tsx",
-        "29_kuelschrank1.tsx"
+        "21_seziertisch.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
