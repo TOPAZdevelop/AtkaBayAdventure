@@ -1107,6 +1107,12 @@
          "imagewidth":2500,
          "margin":0,
          "name":"tile_polarstern_outdoor03",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"maschuxx"
+                }],
          "spacing":0,
          "tilecount":3588,
          "tileheight":32,
