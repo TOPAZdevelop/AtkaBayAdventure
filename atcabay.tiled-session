@@ -9,7 +9,7 @@
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.8596,
             "scaleInEditor": 1
         },
         "/home/instanton/Projects/rc3World/Antartica/icefield.json": {
@@ -582,8 +582,8 @@
             "scale": 1.3716,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1021.7993584135318,
-                "y": 464.42111402741324
+                "x": 1021.0702828813064,
+                "y": 463.69203849518806
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
