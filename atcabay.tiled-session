@@ -512,10 +512,10 @@
         },
         "main.json": {
             "scale": 2.5496,
-            "selectedLayer": 6,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1599.8588013806088,
-                "y": 979.3693128333857
+                "x": 2183.283652337622,
+                "y": 690.3043614684657
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -580,10 +580,10 @@
         },
         "polarstern_inside.json": {
             "scale": 1.3716,
-            "selectedLayer": 14,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1599.591717701954,
-                "y": 959.4634004082823
+                "x": 807.4511519393409,
+                "y": 847.1857684456111
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -680,7 +680,7 @@
             "scaleInDock": 1
         },
         "polarstern_inside.json#AceSet-Hospital": {
-            "scaleInDock": 1
+            "scaleInDock": 1.0774
         },
         "polarstern_inside.json#decoration": {
             "scaleInDock": 1
