@@ -57,7 +57,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":1
+                 "value":0.99
                 }, 
                 {
                  "name":"playAudio",
@@ -85,7 +85,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":1
+                 "value":0.99
                 }, 
                 {
                  "name":"playAudio",
