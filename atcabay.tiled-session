@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "polarstern_inside.json",
+    "activeFile": "graffiti.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -501,7 +501,7 @@
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 144.3287362792007,
-                "y": 160.31522656909658
+                "y": 160.76555023923444
             }
         },
         "graffiti.json#07_tuer_doppel": {
@@ -535,8 +535,8 @@
             "scale": 0.6063,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1765.627577107043,
-                "y": 1004.453240969817
+                "x": 1599.868052119413,
+                "y": 1040.738908131288
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -603,8 +603,8 @@
             "scale": 1.4271,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 824.3991311050381,
-                "y": 808.632891878635
+                "x": 1599.7477401723777,
+                "y": 959.9887884521056
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -878,23 +878,24 @@
         "rc3-2021-mullana-utility.tsx",
         "10_tuer_standard_links.tsx",
         "tile_icefield01.tsx",
-        "atkabay.json"
+        "atkabay.json",
+        "graffiti.json"
     ],
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "graffiti.json",
-        "atkabay.json",
         "main.json",
-        "tile_icefield01.tsx",
-        "10_tuer_standard_links.tsx",
-        "rc3-2021-mullana-utility.tsx",
-        "57_zettelfoo.tsx",
-        "16_lab_table.tsx",
-        "13_wagenvoll.tsx",
-        "16_Pizza_klein.tsx",
-        "12_Donuts.tsx",
-        "01_fire_extinguisher.tsx"
+        "polarstern_inside.json",
+        "dk_garden.tsx",
+        "tile_ocean01.tsx",
+        "terrain.tsx",
+        "decoration.tsx",
+        "rc3-mullana-objects.tsx",
+        "dk_lines.tsx",
+        "minideko.tsx",
+        "21_seziertisch.tsx",
+        "29_kuelschrank1.tsx",
+        "08_waschbecken.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
