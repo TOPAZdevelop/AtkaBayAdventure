@@ -1122,10 +1122,6 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":3793,
-         "source":"tile_polarstern_outdoor03.tsx"
         }],
  "tilewidth":32,
  "type":"map",
