@@ -498,7 +498,7 @@
         },
         "graffiti.json": {
             "scale": 2.2206249999999996,
-            "selectedLayer": 5,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 144.3287362792007,
                 "y": 160.76555023923444
@@ -599,8 +599,8 @@
             "scale": 0.4848,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 1909.0346534653463,
-                "y": 629.125412541254
+                "x": 1904.9092409240923,
+                "y": 627.062706270627
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
