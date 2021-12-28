@@ -505,11 +505,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.4989,
-            "selectedLayer": 3,
+            "scale": 0.4915,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1599.5189416716776,
-                "y": 1058.3283223090798
+                "x": 1500.5086469989828,
+                "y": 946.0834181078333
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -525,9 +525,6 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
-        "main.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 1
-        },
         "main.json#decoration": {
             "scaleInDock": 1
         },
@@ -540,14 +537,14 @@
             "scaleInDock": 1
         },
         "main.json#rc3-2021-mullana-utility": {
-            "scaleInDock": 0.355
+            "scaleInDock": 1
         },
         "main.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 0.6799,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "main.json#rc3-mullana-overlay": {
-            "scaleInDock": 0.5348,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "main.json#terrain": {
@@ -575,11 +572,11 @@
             "scaleInEditor": 1
         },
         "polarstern_inside.json": {
-            "scale": 0.6118,
-            "selectedLayer": 9,
+            "scale": 0.742,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1583.0336711343575,
-                "y": 959.4638770840144
+                "x": 1240.566037735849,
+                "y": 642.8571428571429
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -678,9 +675,6 @@
         "polarstern_inside.json#AceSet-Hospital": {
             "scaleInDock": 1
         },
-        "polarstern_inside.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 1.1319
-        },
         "polarstern_inside.json#decoration": {
             "scaleInDock": 1
         },
@@ -707,7 +701,7 @@
             "scaleInDock": 1
         },
         "polarstern_inside.json#rc3-mullana-overlay": {
-            "scaleInDock": 0.4219
+            "scaleInDock": 1
         },
         "polarstern_inside.json#terrain": {
             "scaleInDock": 1
@@ -716,9 +710,6 @@
             "scaleInDock": 1
         },
         "polarstern_inside.json#tile_ocean01": {
-            "scaleInDock": 1
-        },
-        "polarstern_inside.json#tile_polarstern_outdoor03": {
             "scaleInDock": 1
         },
         "polarstern_inside.json#tilesets_deviant_milkian_1": {
@@ -733,7 +724,7 @@
             }
         },
         "rc3-2021-mullana-utility.tsx": {
-            "scaleInDock": 1.602,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "rc3-mullana-colors-128.tsx": {
@@ -798,7 +789,7 @@
         },
         "tile_polarstern_outdoor03.tsx": {
             "dynamicWrapping": false,
-            "scaleInDock": 1.0107,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "worldExit.tsx": {
