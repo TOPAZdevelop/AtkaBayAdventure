@@ -862,8 +862,8 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "main.json",
         "atkabay.json",
+        "main.json",
         "tile_icefield01.tsx",
         "10_tuer_standard_links.tsx",
         "rc3-2021-mullana-utility.tsx",
