@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "polarstern_inside.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -505,11 +505,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.67,
-            "selectedLayer": 22,
+            "scale": 0.4989,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1426.1194029850744,
-                "y": 1070.1492537313432
+                "x": 1297.855281619563,
+                "y": 875.9270394868711
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -575,11 +575,11 @@
             "scaleInEditor": 1
         },
         "polarstern_inside.json": {
-            "scale": 0.3349,
+            "scale": 1.0336,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 885.3389071364587,
-                "y": 525.5300089578978
+                "x": 1583.7848297213623,
+                "y": 959.7523219814241
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -859,7 +859,6 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "main.json",
         "atkabay.json",
         "tile_polarstern_outdoor03.tsx",
         "tile_icefield01.tsx",
@@ -870,7 +869,8 @@
         "13_wagenvoll.tsx",
         "16_Pizza_klein.tsx",
         "12_Donuts.tsx",
-        "01_fire_extinguisher.tsx"
+        "01_fire_extinguisher.tsx",
+        "05_caution_biohazard.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
