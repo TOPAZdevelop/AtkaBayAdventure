@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"atkaby.json#start_roof"
+                 "value":"atkabay.json#start_roof"
                 }],
          "type":"tilelayer",
          "visible":true,
