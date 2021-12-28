@@ -1141,14 +1141,6 @@
          "tilecount":1995,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":5788,
-         "source":"tile_polarstern_outdoor03.tsx"
-        }, 
-        {
-         "firstgid":9376,
-         "source":"rc3-2021-mullana-utility.tsx"
         }],
  "tilewidth":32,
  "type":"map",
