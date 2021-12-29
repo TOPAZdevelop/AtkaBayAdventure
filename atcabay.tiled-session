@@ -601,10 +601,10 @@
         },
         "polarstern_inside.json": {
             "scale": 2.028,
-            "selectedLayer": 0,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1599.6055226824458,
-                "y": 959.5660749506903
+                "x": 637.3274161735701,
+                "y": 511.83431952662727
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
