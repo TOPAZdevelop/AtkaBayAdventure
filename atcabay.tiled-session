@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "graffiti.json",
+    "activeFile": "polarstern_inside.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -437,8 +437,8 @@
             "scale": 0.6271,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 949.6093127092968,
-                "y": 1076.3833519374903
+                "x": 959.9744857279541,
+                "y": 1085.9512039547121
             }
         },
         "atkabay.json#Terrain": {
@@ -535,8 +535,8 @@
             "scale": 0.6063,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1599.868052119413,
-                "y": 1040.738908131288
+                "x": 1599.0433778657432,
+                "y": 1039.0895596239486
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -600,11 +600,11 @@
             "scaleInEditor": 1
         },
         "polarstern_inside.json": {
-            "scale": 1.4271,
+            "scale": 2.028,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1599.7477401723777,
-                "y": 959.9887884521056
+                "x": 637.8205128205128,
+                "y": 475.3451676528599
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -885,17 +885,17 @@
     "property.type": "string",
     "recentFiles": [
         "main.json",
-        "polarstern_inside.json",
-        "dk_garden.tsx",
-        "tile_ocean01.tsx",
-        "terrain.tsx",
-        "decoration.tsx",
-        "rc3-mullana-objects.tsx",
-        "dk_lines.tsx",
-        "minideko.tsx",
-        "21_seziertisch.tsx",
-        "29_kuelschrank1.tsx",
-        "08_waschbecken.tsx"
+        "graffiti.json",
+        "atkabay.json",
+        "tile_icefield01.tsx",
+        "10_tuer_standard_links.tsx",
+        "rc3-2021-mullana-utility.tsx",
+        "57_zettelfoo.tsx",
+        "16_lab_table.tsx",
+        "13_wagenvoll.tsx",
+        "16_Pizza_klein.tsx",
+        "12_Donuts.tsx",
+        "01_fire_extinguisher.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
