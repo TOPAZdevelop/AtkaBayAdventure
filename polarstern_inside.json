@@ -152,7 +152,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#start_roof"
                 }],
          "type":"tilelayer",
          "visible":true,

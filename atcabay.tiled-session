@@ -437,7 +437,7 @@
             "scale": 0.6271,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 959.9744857279541,
+                "x": 942.4334236963803,
                 "y": 1085.9512039547121
             }
         },
@@ -500,8 +500,8 @@
             "scale": 2.2206249999999996,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160.09006473402758,
-                "y": 159.86490289895866
+                "x": 159.86490289895863,
+                "y": 159.86490289895863
             }
         },
         "graffiti.json#07_tuer_doppel": {
@@ -532,11 +532,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 2.4934,
+            "scale": 0.7701,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1290.807732413572,
-                "y": 619.2347798187216
+                "x": 1412.154265679782,
+                "y": 738.8650824568239
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -601,10 +601,10 @@
         },
         "polarstern_inside.json": {
             "scale": 2.028,
-            "selectedLayer": 4,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 637.3274161735701,
-                "y": 511.83431952662727
+                "x": 1450.9368836291915,
+                "y": 405.3254437869823
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
