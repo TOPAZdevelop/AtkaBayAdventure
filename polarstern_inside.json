@@ -93,7 +93,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=a0JgDBHuMCU?autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/a0JgDBHuMCU?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
