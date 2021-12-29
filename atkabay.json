@@ -129,14 +129,14 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"D7tmVcGxIFOAEVlOadyskViGWh5oGpxC06FMApn5eQaDUC0aL9"
+                         "value":"l6ElYyLtxXoGVJ54RpdR5ISgWGxl9fXVPLemiGujuohSrhln9z"
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":32.13775591176,
                  "x":832.407554356451,
-                 "y":1699.73020155531
+                 "y":1696.95286462466
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -286,6 +286,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to view video"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -322,6 +327,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"neumayer"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
