@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "main.json",
+    "activeFile": "polarstern_inside.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -437,7 +437,7 @@
             "scale": 0.6271,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 941.636102694945,
+                "x": 942.4334236963803,
                 "y": 1085.9512039547121
             }
         },
@@ -533,7 +533,7 @@
         },
         "main.json": {
             "scale": 0.2145,
-            "selectedLayer": 3,
+            "selectedLayer": 7,
             "viewCenter": {
                 "x": 2403.2634032634032,
                 "y": 867.1328671328672
@@ -604,7 +604,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 786.8724529610682,
-                "y": 413.5957686638342
+                "y": 412.7286915806815
             }
         },
         "polarstern_inside.json#01_disinfection_dispenser_32x32": {
@@ -884,8 +884,9 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "atkabay.json",
+        "main.json",
         "graffiti.json",
+        "atkabay.json",
         "tile_icefield01.tsx",
         "10_tuer_standard_links.tsx",
         "rc3-2021-mullana-utility.tsx",
@@ -894,8 +895,7 @@
         "13_wagenvoll.tsx",
         "16_Pizza_klein.tsx",
         "12_Donuts.tsx",
-        "01_fire_extinguisher.tsx",
-        "05_caution_biohazard.tsx"
+        "01_fire_extinguisher.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",

@@ -86,9 +86,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"dump1",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLbdjzcxsXGljNLSMZGiFtUtBmlmonyvEs"
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/watch?v=a0JgDBHuMCU?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
