@@ -88,7 +88,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/a0JgDBHuMCU?autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLbdjzcxsXGljNLSMZGiFtUtBmlmonyvEs"
                 }],
          "type":"tilelayer",
          "visible":true,
