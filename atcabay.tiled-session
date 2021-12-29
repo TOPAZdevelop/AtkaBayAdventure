@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "polarstern_inside.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "JSON tileset files (*.json)",
@@ -500,8 +500,8 @@
             "scale": 2.2206249999999996,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 159.86490289895863,
-                "y": 159.86490289895863
+                "x": 160.09006473402758,
+                "y": 159.86490289895866
             }
         },
         "graffiti.json#07_tuer_doppel": {
@@ -532,11 +532,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.6063,
+            "scale": 2.4934,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1599.868052119413,
-                "y": 1040.738908131288
+                "x": 1290.807732413572,
+                "y": 619.2347798187216
             }
         },
         "main.json#01_fire_extinguisher": {
@@ -884,7 +884,6 @@
     "project": "atcabay.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "main.json",
         "graffiti.json",
         "atkabay.json",
         "tile_icefield01.tsx",
@@ -895,7 +894,8 @@
         "13_wagenvoll.tsx",
         "16_Pizza_klein.tsx",
         "12_Donuts.tsx",
-        "01_fire_extinguisher.tsx"
+        "01_fire_extinguisher.tsx",
+        "05_caution_biohazard.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "All Files (*)",
